@@ -1,0 +1,2 @@
+Node is lightweight and perfect for real time applications
+that runs across distributed devices.
